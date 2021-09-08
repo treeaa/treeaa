@@ -1,4 +1,8 @@
+# Arduino Core
 ### Hi there 👋
+All libraries on the IDE will be shown here.  
+📫 [https://github.com/treeaa](https://github.com/treeaa "悬停显示")
+💬[倍创](https://www.bestmodulescorp.com/ "悬停显示")  
 
 <!--
 **treeaa/treeaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
